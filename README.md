@@ -1,3 +1,9 @@
+# What's Semi-Supervised Clustering？
+Semi-supervised clustering refers to a type of clustering algorithm where the clustering process is partially guided by available labeled data in addition to unlabeled data. In semi-supervised clustering, the goal is to leverage the limited labeled data, along with the unlabeled data, to perform better clustering than what could be achieved by using only the unlabeled data.
+
+In the context of semi-supervised clustering, the available labeled data may consist of a small but representative sample of the data set, or a partial set of the true cluster labels. The unlabeled data set, on the other.[Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002840)
+
+
 # Semi-Supervised Clustering Awesome Repository
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
